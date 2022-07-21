@@ -1,6 +1,6 @@
 # Coloriser Script
 
-Convenience script for colorising text in a terminal, interfacing with the [DeepAi API](https://api.deepai.org/api/colorizer).
+Convenience script for colorising text in a terminal, interfacing with the [DeepAi API](https://deepai.org/machine-learning-model/colorizer).
 
 ## 1. Initialise these three global variables:
 
